@@ -1,0 +1,6 @@
+apt update && apt upgrade 
+pkg install git
+git clone https://github.com/Bala-jee/TBomb.git
+cd TBomb
+chmod +x TBomb.sh
+./TBomb.sh
